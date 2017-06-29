@@ -1,6 +1,6 @@
 # Usage:
 
-1. First of all, make sure you're in Marcy folder
+1. First of all, make sure you're in <b>Marcy</b> folder
 
 2. In your terminal type in <b>"npm i express nodemon"</b>
 
