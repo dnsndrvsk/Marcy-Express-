@@ -2,7 +2,7 @@
 
 1. First of all, make sure you're in <b>Marcy</b> folder
 
-2. In your terminal type in <b>"npm i express nodemon"</b>
+2. In your terminal type in <b>"npm i express nodemon --save-dev"</b>
 
 3. and then <b>"nodemon src/app"</b>
 
