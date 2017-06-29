@@ -6,4 +6,4 @@
 
 3. and then <b>"nodemon src/app"</b>
 
-4. Finnaly, if you're getting the message that <i>...server has been successfully runned on port 3000</i>, enter <b>http://localhost:3000/home</b> in address field of your browser
+4. Finnaly, if you're getting the message that <i>"The frontend server is running on port 3000"</i>, enter <b>http://localhost:3000/home</b> in address field of your browser
