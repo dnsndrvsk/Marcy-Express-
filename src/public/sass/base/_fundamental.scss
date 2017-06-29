@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: $playfair;
+  background-color: #e9ebec;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $grass;
+  opacity: 1;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 32px;
+  font-family: $playfair;
+  font-size: 24px;
+  line-height: 40px;
+  color: $grass;
+  opacity: .8;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+figure {
+  margin: 0;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+a, button {
+  font-family: $poppins;
+  text-decoration: none;
+  color: #fff;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}

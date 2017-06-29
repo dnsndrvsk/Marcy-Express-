@@ -1,0 +1,10 @@
+@keyframes invisibility {
+  0%   { opacity: 1 }
+  100% { opacity: 0; z-index: 5 }
+}
+
+// FOR LOGO------------------------------------------------------
+@keyframes zoom-out {
+  0%   { transform: translateX(-50%) scale(.9) }
+  100% { transform: translateX(-50%) scale( 1) }
+}
