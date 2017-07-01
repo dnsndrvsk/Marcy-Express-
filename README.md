@@ -12,6 +12,6 @@
 <hr>
 <hr>
 
-<b>PS: Also, you can donwload this LP without all these things by following the link below.</b>
+<b>PS: Also, you can download this LP without all these things, by following the link below.</b>
 
 <i>https://github.com/dnsndrvsk/Marcy</i>
