@@ -8,6 +8,7 @@
 
 4. Finnaly, if you're getting the message <b><i>"The frontend server is running on port 3000"</i></b>, enter <b>http://localhost:3000/home</b> in address field of your browser
 
+<hr>
 
 <h2>PS: Also, you can donwload this LP without all these things by following the link below.</h2>
 
